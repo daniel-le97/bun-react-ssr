@@ -14,6 +14,8 @@ const srcRouter = new Bun.FileSystemRouter({
   style: "nextjs",
 });
 
+
+// refreshes the .build directory
 if (existsSync(BUILD_DIR))
         rmSync(BUILD_DIR, { recursive: true });
 
