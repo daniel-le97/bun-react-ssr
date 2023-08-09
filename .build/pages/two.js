@@ -1,0 +1,1 @@
+import{a as h} from"../chunk-c61da72a85601473.js";import{b as f,e as g} from"../chunk-47b70373e0e0c13a.js";var b=f(g(),1),k=()=>b.jsxDEV(h,{title:"two",children:b.jsxDEV("div",{children:"two"},void 0,!1,void 0,this)},void 0,!1,void 0,this);export{k as default};

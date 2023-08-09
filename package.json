@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "module": "index.tsx",
+  "type": "module",
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "bun-types": "^0.7.0"
+  },
+  "dependencies": {
+    "@unocss/runtime": "^0.54.2",
+    "million": "^2.5.4",
+    "react": "canary",
+    "react-dom": "canary",
+    "unocss": "^0.54.2"
+  }
+}
